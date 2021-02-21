@@ -7,7 +7,7 @@
 
 - 📫 How to reach me **ahnafnafee@gmail.com**
 
-- 📄 Know about my experiences [https://bit.ly/3aFmD8D](https://bit.ly/3aFmD8D)
+- 📄 Know about my experiences [Resume](https://bit.ly/3aFmD8D)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
