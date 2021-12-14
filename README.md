@@ -1,13 +1,13 @@
 <h1 align="center">Hi 👋, I'm Ahnaf An Nafee</h1>
 <h3 align="center">A Passionate Software Engineer with UX skills and Passion for Game Development</h3>
 
-- 🔭 I am working on [Player 2](https://player2app.com/)
+- 🔭 I am working on [**Player 2**](https://player2app.com/)
 
-<!-- - 🌱 I’m currently learning **Game AI and Spring Boot** -->
+- 🌱 I’m currently learning **Game AI and Spring Boot**
 
 - 📫 How to reach me **ahnafnafee@gmail.com**
 
-- 📄 Know about my experiences [Resume](https://bit.ly/3aFmD8D)
+- 📄 Know about my experiences [**Resume**](https://bit.ly/3aFmD8D)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
