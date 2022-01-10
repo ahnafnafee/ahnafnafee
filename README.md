@@ -27,9 +27,9 @@
 
 
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ahnafnafee&show_icons=true&locale=en&layout=compact" alt="ahnafnafee" /></p>
+<p><img align="left" src="https://github.com/ahnafnafee/github-stats/blob/master/generated/overview.svg" alt="ahnafnafee" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ahnafnafee&show_icons=true&locale=en" alt="ahnafnafee" /></p>
+<p>&nbsp;<img align="center" src="https://github.com/ahnafnafee/github-stats/blob/master/generated/languages.svg" alt="ahnafnafee" /></p>
 <h3>Support:</h3>
 <p><a href="https://ko-fi.com/ahnafnafee"> <img align="left" src="https://cdn.ko-fi.com/cdn/kofi3.png?v=3" height="50" width="210" alt="ahnafnafee" /></a></p>
 
