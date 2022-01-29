@@ -11,7 +11,7 @@
 
 - 📫 How to reach me **ahnafnafee@gmail.com**
 
-- 📄 Know about my experiences [Resume](https://raw.githubusercontent.com/ahnafnafee/ahnafnafee/main/Resume.pdf)
+- 📄 Know about my experiences [Resume](https://github.com/ahnafnafee/ahnafnafee/raw/main/AnNafeeAhnaf_Resume.pdf)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
