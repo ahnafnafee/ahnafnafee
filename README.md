@@ -5,11 +5,11 @@
 
 - 🌱 I’m currently learning **Game AI**
 
-- 👨‍💻 All of my projects are available at [My Repo](https://github.com/ahnafnafee?tab=repositories)
+- 👨‍💻 All of my projects are available [here](https://www.ahnafnafee.dev)
 
 - 📫 How to reach me **ahnafnafee@gmail.com**
 
-- 📄 Know about my experiences [Resume](https://github.com/ahnafnafee/ahnafnafee/raw/main/AnNafeeAhnaf_Resume.pdf)
+- 📄 Know about my experiences [Resume](https://mega.nz/file/CzQ0FSpa#uxOnLguTlP1y8N9rIukzkFXe7HncMHhSMnMr__L9-64)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
