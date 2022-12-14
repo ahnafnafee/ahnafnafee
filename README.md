@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **Game AI**
 
-- 👨‍💻 All of my projects are available [here](https://www.ahnafnafee.dev)
+- 👨‍💻 All of my projects are available [here](https://www.ahnafnafee.dev/portfolio)
 
 - 📫 How to reach me **ahnafnafee@gmail.com**
 
