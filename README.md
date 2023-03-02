@@ -1,10 +1,8 @@
 <h1 align="center">Hi 👋, I'm Ahnaf An Nafee</h1>
-<h3 align="center">A Passionate Software Engineer with UX skills and Passion for Game Development</h3>
+<h3 align="center">A Passionate DevOps Engineer working on GameDev on the side</h3>
 <h3 align="center"><a target="_blank" href="https://www.ahnafnafee.dev">Checkout my Portfolio here!</a></h3>
 
-- 🔭 I’m currently working on [Player 2](https://player2app.com/)
-
-- 🌱 I’m currently learning **AI,ML**
+- 🌱 I’m currently learning **Kubernetes, OpenShift, Jenkins**
 
 - 👨‍💻 All of my projects are available [here](https://www.ahnafnafee.dev/portfolio)
 
